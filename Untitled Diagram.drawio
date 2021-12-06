@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T02:24:32.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" version="15.9.1" etag="pS2IuRqGPtynyOGqvKzM" type="github"><diagram id="HEgScgMQKGo4G-0vuXsg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-06T03:47:54.218Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="tfRk2vBhqIdkqEqU2YC-" version="15.9.1" type="github">
+  <diagram id="HEgScgMQKGo4G-0vuXsg" name="Page-1">
+    <mxGraphModel dx="1572" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rYJhCPFvUw0rCz0I3GjS-1" value="&lt;h1&gt;&lt;font style=&quot;font-size: 35px&quot;&gt;Instructions for Web Interface&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rYJhCPFvUw0rCz0I3GjS-4" value="&lt;ol style=&quot;font-size: 27px&quot;&gt;&lt;li&gt;run &#39;npm start&#39; in the web implementation folder&amp;nbsp;&lt;/li&gt;&lt;li&gt;then you can access the site at localhost:8000&lt;/li&gt;&lt;li&gt;once on the web application, click on &#39;connect wallet&#39; to connect your Meta Mask wallet&lt;/li&gt;&lt;li&gt;Once connected, you will be able to watch the informational video on recycling batteries and the background of it&lt;/li&gt;&lt;li&gt;After watching the entire video, you will be rewarded with $batt. Only the owner can reward $Batt to its users that have watched the video with the &#39;watchedvideo()&#39; function&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;span style=&quot;font-size: 27px&quot;&gt;&lt;b&gt;Other functionalities:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ol style=&quot;font-size: 27px&quot;&gt;&lt;li&gt;A user is able to register by clicking the register button&lt;/li&gt;&lt;li&gt;A user is able to check the $Batt Balance by clicking on the &#39;batt balance&#39; button&lt;/li&gt;&lt;li&gt;A user is able to withdraw the batt tokens to their wallet by clicking on the &#39;withdraw&#39; function&lt;/li&gt;&lt;li&gt;The &#39;refer&#39; button allows users to refer others to the educational videos on recycling batteries. Each referral earns the user a $Batt token&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;" vertex="1" parent="1">
+          <mxGeometry x="50" y="330" width="750" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
